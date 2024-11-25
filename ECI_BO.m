@@ -1,5 +1,5 @@
 clearvars;clc;close all;
-% objective function name
+% objective function
 fun_name = 'Ellipsoid';
 % number of variables
 num_vari = 100;
