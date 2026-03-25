@@ -1,11 +1,11 @@
 clearvars;clc;close all;
 % objective function
-fun_name = 'Ellipsoid';
+fun_name = 'Rosenbrock';
 % number of variables
-num_vari = 100;
+num_vari = 10;
 % lower and upper bounds
-lower_bound = -5.12*ones(1,num_vari);
-upper_bound = 5.12*ones(1,num_vari);
+lower_bound = -5*ones(1,num_vari);
+upper_bound = 10*ones(1,num_vari);
 % number of initial design points
 num_initial = 2*num_vari;
 % number of maximum evaluations
