@@ -1,5 +1,5 @@
-'''ECI_BO.m''' is the Matlab code of the expected coordinate improvement approach.
-'''main_ECI_BO.py''' is the BoTorch implememtation of the expected coordiante improvement approach.
+```ECI_BO.m``` is the Matlab code of the expected coordinate improvement approach.
+```main_ECI_BO.py``` is the BoTorch implememtation of the expected coordiante improvement approach.
 
 
 
